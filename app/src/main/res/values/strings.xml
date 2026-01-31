@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem Manajemen Perpustakaan</string>
+    <string name="add_book">Tambah Buku</string>
+    <string name="edit_book">Edit Buku</string>
+    <string name="delete_book">Hapus Buku</string>
+    <string name="book_title">Judul</string>
+    <string name="book_isbn">ISBN</string>
+    <string name="book_category">Kategori</string>
+    <string name="book_authors">Penulis</string>
+    <string name="book_copies">Eksemplar</string>
+    <string name="add_copy">Tambah Eksemplar</string>
+    <string name="status_available">Tersedia</string>
+    <string name="status_borrowed">Dipinjam</string>
+    <string name="confirm_delete_category">Hapus Kategori?</string>
+    <string name="rollback_warning">Tidak dapat menghapus kategori! Buku masih sedang dipinjam.</string>
+    <string name="delete_books_option">Hapus semua buku di kategori ini</string>
+    <string name="move_to_uncategorized">Pindahkan buku ke Tanpa Kategori</string>
+</resources>
